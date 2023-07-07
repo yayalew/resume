@@ -21,17 +21,6 @@ April 2022 – Sept 2022
 - Collaborated with a team using various developer tools to determine design of schemas and relations for database management system.
 - Worked alongside team to implement RESTful API using a SQL database, with the use of AWS cloud services.
 
-**Coyote Creek Golf Course**  
-*Wait Staff*  
-April 2021 – August 2021
-
-- Greet customers as they arrive, show them to their table, and provide menus.
-- Take orders from customers and relay them to the kitchen.
-- Serve food and drinks to customers.
-- Check on customers throughout their meal to ensure they are satisfied and address any issues that arise.
-- Process payments and make change for customers.
-- Keep the dining area clean and tidy.
-
 **Sportchek**  
 *Clothing Associate*  
 June 2018 – July 2019
